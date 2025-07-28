@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 A Final year student at Sardar Vallabhbhai National Institute of Technology, Surat, India.<br>💻 A multi-skilled software and web solutions developer.<br>🤓 A Core Member/Developer at the startup - WictroniX.<br>🗠 A Deep Learning enthusiast.<br>⚽ A pass time Footballer.
+🎓 Working as SDE 1 with specialisation in backend. Graduated from Sardar Vallabhbhai National Institute of Technology, Surat, India.<br>💻 A multi-skilled software and web solutions developer.<br>🤓 A Core Member/Developer at the startup - WictroniX.<br>🗠 A Deep Learning enthusiast.<br>⚽ A pass time Footballer.
 
 
 ## 🌐 Socials:
