@@ -11,8 +11,8 @@ cloud infrastructure, and the CI/CD that ships them to production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-gautam-3b45201bb/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gautamprashant9425@gmail.com)
-![LeetCode](https://img.shields.io/badge/LeetCode%20Knight-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef%205★-5B4638?style=flat-square&logo=codechef&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode%20Knight-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/prashantgautam/)
+[![CodeChef](https://img.shields.io/badge/CodeChef%205★-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/wrong_ans_on_2)
 ![Location](https://img.shields.io/badge/Bengaluru,%20India-34A853?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
@@ -86,9 +86,9 @@ Software Development Engineer with **2+ years** owning backend and DevOps end-to
 
 | Platform | Rating | Standing |
 | :--- | :--- | :--- |
-| **CodeChef** | 2118 &nbsp;`5★` | Top **0.1%** globally |
-| **LeetCode** | 2018 &nbsp;`Knight` | 300+ problems solved |
-| **Codeforces** | 1417 &nbsp;`Specialist` | — |
+| [**CodeChef**](https://www.codechef.com/users/wrong_ans_on_2) | 2118 &nbsp;`5★` | Top **0.1%** globally |
+| [**LeetCode**](https://leetcode.com/u/prashantgautam/) | 2018 &nbsp;`Knight` | 300+ problems solved |
+| [**Codeforces**](https://codeforces.com/profile/gautamprshant) | 1417 &nbsp;`Specialist` | — |
 
 ---
 
