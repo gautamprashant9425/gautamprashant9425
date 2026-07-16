@@ -45,46 +45,40 @@ Software Development Engineer with **2+ years** owning backend and DevOps end-to
 
 ## Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=swagger&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-
-**Cloud & DevOps**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Data & Messaging**
-
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Service Bus](https://img.shields.io/badge/Service%20Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Architecture**
+<table>
+  <tr>
+    <td align="right"><strong>Languages</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,js&perline=10" alt="Java, Python, C++, JavaScript" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Backend</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,django,react&perline=10" alt="Spring, Hibernate, Node.js, Django, React" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Cloud & DevOps</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,nginx,linux,maven,git&perline=10" alt="Azure, AWS, Docker, Kubernetes, Jenkins, NGINX, Linux, Maven, Git" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Data & Messaging</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,firebase&perline=10" alt="PostgreSQL, MySQL, Redis, MongoDB, Firebase" /></a>
+    </td>
+  </tr>
+</table>
 
 ![Microservices](https://img.shields.io/badge/Microservices-2E7D32?style=flat-square)
 ![System Design](https://img.shields.io/badge/System%20Design-455A64?style=flat-square)
 ![Multi--tenancy](https://img.shields.io/badge/Multi--tenancy-455A64?style=flat-square)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-455A64?style=flat-square)
 ![Event--Driven](https://img.shields.io/badge/Event--Driven-455A64?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-455A64?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-455A64?style=flat-square)
 
 ---
 
@@ -101,10 +95,19 @@ Software Development Engineer with **2+ years** owning backend and DevOps end-to
 ## GitHub Analytics
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gautamprashant9425&show_icons=true&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gautamprashant9425&show_icons=true&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gautamprashant9425&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gautamprashant9425&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  </picture>
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamprashant9425&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=768390&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamprashant9425&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=768390&langs_count=8)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gautamprashant9425&theme=github-compact&hide_border=true&area=true&radius=8" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamprashant9425&theme=minimal&hide_border=true&area=true&radius=8" alt="Contribution graph" />
+  </picture>
 </div>
 
 ---
